@@ -1,0 +1,6 @@
+{
+  "name": "SMM Boost",
+  "description": "SMM services app with 500 views for ₹1, 500 followers for ₹40, PhonePe QR deposits, manual approval admin wallet recharge, and real-time order alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
